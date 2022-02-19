@@ -1,4 +1,4 @@
-#Fake Bank Backend Server
+##Fake Bank Backend Server
 The project have below functionalities:
 1. create bank account for customers with some initial balance
 2. fetch balance of an account
